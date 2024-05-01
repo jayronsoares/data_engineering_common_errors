@@ -1,4 +1,4 @@
-#Common errors in data engineering projects along with improved code examples using SQL and Python where appropriate:
+## Common errors in data engineering projects along with improved code examples using SQL and Python where appropriate:
 
 1. **Data Loss during Transformation:**
    - **Error Version (SQL):** Incomplete transformation logic:
